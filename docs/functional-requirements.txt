@@ -1,0 +1,37 @@
+- User that is not logged in is allowed to view:
+    * List of all the Vendors.
+    * Individual Vendor.
+
+- User logged in as a Reader is allowed to:
+    * View all employees without their hourly pay.
+    * View individual employee by id without their hourly pay.
+    * View individual employee by their name without their hourly pay.
+
+    * View a List of all departments.
+    * View an individual department by id.
+
+    * View a list of all Vendors.
+    * View an individual Vendor.
+
+- User logged in as an Admin is allowed :
+    * View all employees.
+    * View individual employee by id.
+    * View individual employee by their name.
+    * Add a new employ.
+    * Update an employee.
+    * Update employee's phone number.
+    * Update employee's hourly rate.
+    * Delete an employee.
+
+    * View a List of all departments.
+    * View an individual department by id.
+    * Add a new department.
+    * Update a department.
+    * Delete a department.
+
+    * View a list of all Vendors.
+    * View an individual Vendor.
+    * Add a new Vendor.
+    * Update a Vendor.
+    * Delete a Vendor.
+

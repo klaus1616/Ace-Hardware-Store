@@ -69,7 +69,7 @@ public class DepartmentController {
     }
 
     /**
-     * Deletes a department by ID
+     * Deletes a department by id
      *
      * @param id The ID of the department to be deleted
      */
